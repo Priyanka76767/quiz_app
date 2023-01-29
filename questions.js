@@ -1,0 +1,17 @@
+var questions = [
+  ["Who is the father of Computers?", "James Gosling", "Charles Babbage", " Dennis Ritchie","Bjarne Stroustrup", "2"],
+  [" Who developed Python Programming Language?", "Wick van Rossum", "Rasmus Lerdorf", "Guido van Rossum", "Niene Stom","3"],
+  ["Which type of Programming does Python support?", "object-oriented programming", "structured programming", "functional programming", "all","4"],
+  [" All keywords in Python are in _________", " Capitalized", "lower case", "UPPER CASE", " None of the mentioned","4"],
+  [" Which of the following is used to define a block of code in Python language?", " Indentation", " Key", "Brackets", " All of the mentioned","1"],
+  [" Which keyword is used for function in Python language?", "Function", "def", " Fun", "Define","2"],
+  [" Which component is used to compile, debug and execute the java programs?", " JRE", " JIT", "JDK", "JVM","3"],
+  ["Which of these cannot be used for a variable name in Java?", "identifier & keyword", " identifier", "keyword", "none of the mentioned","3"],
+  ["What is the extension of java code files?", " .js", " .txt", ".class", " .java","4"],
+  [" Which environment variable is used to set the java path?", "MAVEN_Path", "JavaPATH", "JAVA", " JAVA_HOME","4"],
+  ["  Which of the following is not an OOPS concept in Java?", " Polymorphism", " Inheritance", "Compilation", "Encapsulation","3"],
+  [" What is not the use of “this” keyword in Java?", "Referring to the instance variable when a local variable has the same name", " Passing itself to the method of the same class", " Passing itself to another method", "Calling another constructor in constructor chaining","2"],
+  ["Which of the following is not a valid C variable name?", " int number;", " float rate;", " int variable_count;", "int $main;","4"],
+  [" Which of the following cannot be a variable name in C?", " volatile", "true", " friend", "export","1"],
+  ["What is short int in C programming?", "The basic data type of C", "Qualifie", " Short is the qualifier and int is the basic data type", "All of the mentioned","3"],
+  ];
